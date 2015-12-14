@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/SkillTracker/skilltracker.svg?branch=master)](https://travis-ci.org/SkillTracker/skilltracker)
 # skilltracker
 
+[![Join the chat at https://gitter.im/SkillTracker/skilltracker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SkillTracker/skilltracker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This application was generated using JHipster, you can find documentation and help at [https://jhipster.github.io](https://jhipster.github.io).
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
